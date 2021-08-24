@@ -1,0 +1,1 @@
+powershell "F:\Script\test.ps1" >> F:\Script\log.log
